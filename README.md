@@ -1,0 +1,2 @@
+# BANK-FINANCIAL-LOAN-ANALYSIS-AND-SUMMARY-USING-M-EXCEL
+Bank loan datasets capture borrower demographics, loan terms, repayment status, and credit risk indicators. They are widely used for financial risk modeling, customer profiling, and business intelligence dashboards. Key fields like loan status, grade, and debt-to-income ratio enable predictive analytics for default probability and repayment.
